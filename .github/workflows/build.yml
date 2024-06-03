@@ -11,8 +11,8 @@ on:
       - ".dockerignore"
       - "Dockerfile"
       - ".gitignore"
-      - ".github/**"
-      # - "!.github/workflows/build.yml"11
+      # - ".github/**"
+      # - "!.github/workflows/build.yml"
 
 jobs:
   build:
